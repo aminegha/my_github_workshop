@@ -1,5 +1,5 @@
 ---
-title: "Insert a title here"
+title: "Workshop Code"
 output:
   pdf_document: default
   html_document: default
